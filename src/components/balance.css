@@ -1,0 +1,30 @@
+.card-balance {
+    background-color:  hsl(10, 79%, 65%);
+    width: 600px;
+    border-radius: 10px;
+}
+
+.card-balance p {
+    padding: 20px 0px 0px 20px;
+    color: white;
+    font-size: 0.7rem;
+}
+
+.saldo-inline {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px 10px 20px;
+}
+
+.saldo-inline span {
+    margin-bottom: 5px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: white;
+}
+
+.logo img {
+    width: 35px;
+    margin-bottom: 10px;
+}
