@@ -5,3 +5,9 @@
     align-items: center;
     height: 60vh;
 }
+
+.labels {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
